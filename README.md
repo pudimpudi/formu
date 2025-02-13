@@ -13,10 +13,10 @@ Este é um projeto de protótipo de site de formulário, criado para testar e ap
 
 ## 🎯 Objetivos do Projeto
 
-✔️ Criar um formulário interativo e bem estruturado
-✔️ Implementar estilos modernos e responsivos
-✔️ Aplicar validações em JavaScript
-✔️ Aprimorar meus conhecimentos em desenvolvimento web
+- ✔️ Criar um formulário interativo e bem estruturado
+- ✔️ Implementar estilos modernos e responsivos
+- ✔️ Aplicar validações em JavaScript
+- ✔️ Aprimorar meus conhecimentos em desenvolvimento web
 📌 Status
 
 🛠️ Em desenvolvimento! Melhorias e novos recursos podem ser adicionados conforme o aprendizado evolui.
